@@ -4,9 +4,9 @@ emcalc is E=mc<sup>2</sup> calculator, and <strong>not only calculating basic, c
 
 <a href="emcalc.github.io/emcalc" target="_blank">More Features</a>
 
-Installastion Guide:
+<h2>Installastion Guide:</h2>
 
-For Windows 10 1709 or later:
+<h3>For Windows 10 1709 or later:</h3>
 
 1: windows + r type: cmd
 
@@ -22,7 +22,7 @@ For Windows 10 1709 or later:
 
 7: python3 emcalc.py
 
-For Windows 10 1708 or older:
+<h3>For Windows 10 1708 or older:</h3>
 
 1: <a href="https://www.python.org/downloads/" target="_blank">Python Installer: Install the 3.9 or later</a>
 
@@ -34,7 +34,7 @@ For Windows 10 1708 or older:
 
 5 python3 emcalc.py
 
-For GNU Linux/MacOS/UNIX/WSL or other POSIX Opareting systems
+<h3>For GNU Linux/MacOS/UNIX/WSL or other POSIX Opareting systems</h3>
 
 1: <a href="https://github.com/emcalc/emcalc/releases" target="_blank">Install "emcalc"</a>
 
