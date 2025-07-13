@@ -2,7 +2,7 @@
 
 emcalc is E=mc<sup>2</sup> calculator, and <strong>not only calculating basic, calculating efficiency, to electric efficiency and more!</strong>
 
-<a href="https://emcalc.github.io/emcalc/README.md" target="_blank">More Features</a>
+<a href="https://emcalc.github.io/emcalc/" target="_blank">More Features</a>
 
 <h2>Installastion Guide:</h2>
 
