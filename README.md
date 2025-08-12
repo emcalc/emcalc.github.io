@@ -1,47 +1,84 @@
-<h1>Emcalc</h1>
+# ⚛️ emcalc — Einstein’s E=mc² Energy Calculator
 
-emcalc is E=mc<sup>2</sup> calculator, and <strong>not only calculating basic, calculating efficiency, to electric efficiency and more!</strong>
+> **Instantly calculate mass-energy equivalence with style, presets, and full open-source freedom.**
 
-<a href="https://emcalc.github.io/emcalc/" target="_blank">More Features</a>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-informational)](#)
 
-<h2>Installastion Guide:</h2>
+---
 
-<h3>For Windows 10 1709 or later:</h3>
+## ✨ What is emcalc?
 
-1: windows + r type: cmd
+**emcalc** is a lightweight, open-source tool designed to calculate energy from mass using Einstein's famous formula:  
+\[
+E = mc^2
+\]
 
-2: winget update
+But it doesn’t stop there:
 
-3: winget install python3
+- 🎛️ **Presets** for common nuclear power plants
+- 📟 **Minimal**, **CLI**, and **interactive** modes included  
+- 🧠 **Educational**: Great for students, teachers, and science lovers  
+- 🛠️ **Open Source** and licensed under **GNU GPLv3**
 
-4: winget install git
+---
 
-5: cd %USERPROFILE%\Desktop
+## 📦 Features
 
-6: git clone https://github.com/emcalc/emcalc
+- ✅ Accurate `E=mc²` calculations with constants from `scipy.constants`  
+- 🚀 Multi-mode support: interactive, CLI, and minimal  
+- 💡 Helpful tooltips and preset values  
+- 🧪 Ideal for physics learning, projects, or curiosity  
+- 🐧 Cross-platform (Tested on macOS, Linux, Windows)  
 
-7: python3 emcalc.py
+⸻
 
-<h3>For Windows 10 1708 or older:</h3>
+🚀 Getting Started
 
-1: <a href="https://www.python.org/downloads/" target="_blank">Python Installer: Install the 3.9 or later</a>
+🔧 Requirements
+	•	Python 3.9+
 
-2: setup the python
+🧪 Run the program
 
-3: cd %USERPROFILE%\Desktop
+Option 1: Clone and run
 
-4: git clone https://github.com/emcalc/emcalc
+git clone https://github.com/emcalc/emcalc.git
+cd emcalc
+python emcalc.py
 
-5 python3 emcalc.py
+Option 2: Compiled file (macOS/Linux/Windows)
 
-<h3>For GNU Linux/MacOS/UNIX/WSL or other POSIX Opareting systems</h3>
+go the [https://github.com/emcalc/emcalc.github.io/releases/latest](https://github.com/emcalc/emcalc.github.io/releases/latest)
 
-1: <a href="https://github.com/emcalc/emcalc/releases" target="_blank">Install "emcalc"</a>
+download and unzip file
 
-2: open the terminal
+click and use!
 
-3: type: cd ~/Downloads/
+⸻
 
-4: type: chmod +x emcalc
+🧠 Why emcalc?
 
-5: type: ./emcalc or click the "emcalc" file
+This isn’t just a calculator.
+It’s a learning tool, an experiment launcher, a playground for students curious about the cosmos and energy.
+It’s a tribute to Einstein’s most famous equation — now in executable form.
+
+⸻
+
+📜 License
+
+This project is licensed under the GNU General Public License v3.0.
+
+You are free to use, modify, and redistribute — as long as you give credit and keep it open.
+
+See LICENSE for full text.
+
+⸻
+
+👨‍💻 Author
+
+Made with ❤️ by Eymen Yıldırım
+
+⸻
+
+🌟 Star the repo if you like it!
