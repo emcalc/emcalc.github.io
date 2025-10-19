@@ -26,7 +26,7 @@ But it doesn’t stop there:
 
 ## 📦 Features
 
-- 🚀 Multi-mode support: interactive, CLI, and minimal  
+- 🚀 Multi-mode support: interactive, Ultra, and minimal  
 - 💡 Helpful tooltips and preset values  
 - 🧪 Ideal for physics learning, projects, or curiosity  
 - 🐧 Cross-platform (Tested on macOS, Linux, Windows)  
