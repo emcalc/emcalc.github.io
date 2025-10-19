@@ -49,7 +49,7 @@ python3 emcalc.py
 
 Option 2: Compiled file (macOS/Linux/Windows)
 
-go the [Installition Link](https://github.com/emcalc/emcalc.github.io/releases/latest)
+go the [Installition Link](https://github.com/emcalc/emcalc-interactive/releases/latest)
 
 download and unzip file
 
